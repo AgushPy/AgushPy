@@ -2,7 +2,7 @@
 
 **😎About me :**
 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning AI Topics
 - 👯 I’m looking to collaborate on Projects with social impact
 - 💬 Ask me about languague favourite
 - 📫 How to reach me: agus.dedico@gmail.com
